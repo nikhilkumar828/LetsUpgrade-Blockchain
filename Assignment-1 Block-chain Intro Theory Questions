@@ -1,0 +1,31 @@
+1. What is your understanding of Blockchain?
+
+Ans: Blockchain is an enhanced form of ledger concept which is the mixture of distributed database & cryptography technology to ensure more security, data transparency, and importantly build a trust system with eliminating the third party.
+
+2. What is the core problem blockchain trying to solve?
+
+Ans: There are 3 core problems:
+A. Authenticity
+B. Security
+C. The need for third party trust
+
+3. What are the few features which blockchain will give u?
+
+Ans: It consists of the following features:
+1.Verifiable
+2.Unchanged
+3.Tamper-Proof
+4.Immutable
+
+4. What all things does a Block Contain?
+
+Ans: A block contains:-
+
+1. Previous Block Hash
+2. Transaction records
+3. Block Number
+4. Signature
+
+5. How is the verifiability of Blockchain is been attained?
+
+Ans: Through Digital Signatures
